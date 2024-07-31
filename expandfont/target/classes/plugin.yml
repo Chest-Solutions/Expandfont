@@ -1,0 +1,13 @@
+name: expandfont
+version: '1.0'
+main: me.redsnickdev.expandfont.Expandfont
+description: 'Plugin Created By Chest Solution Organization'
+api-version: '1.20'
+depend: [PlaceholderAPI]
+author: 'Chest Solutions'
+website: https://chest-solutions.github.io/Dev/
+
+commands:
+  expandfont:
+    description: Test the expandfont placeholder
+    usage: /expandfont <font> <placeholder>
