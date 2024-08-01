@@ -29,5 +29,8 @@ OUTPUT:
 > You can test the placeholder before using it By using:
 > /expandfont [FONT] [PLACEHOLDER]
 
+-------------------------------------------------------------------
+- [] Creating A Method Of Using Built-In Fonts Like "Small-Caps" Or "Bold"
+
 
 > End Of README.MD, Yes you're done reading. stop now
