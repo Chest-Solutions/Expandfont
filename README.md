@@ -1,6 +1,7 @@
 # ExpandFont
 ## Made By Chest Solutions ORG
-![temporary logo for ExpandFont](https://github.com/user-attachments/assets/e258fb0a-ae04-433a-815c-44715ca335ea)
+![temporary logo for ExpandFont](https://github.com/user-attachments/assets/7db39b8a-11d8-4b9f-8586-69755d9275ad)
+
 
 ExpandFont Is A PlaceholderAPI Expansion Plugin Which lets you Use Custom Resource pack fonts in Placeholders.
 > [!CAUTION]
