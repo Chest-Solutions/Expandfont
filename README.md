@@ -8,7 +8,7 @@ ExpandFont Is A PlaceholderAPI Expansion Plugin Which lets you Use Custom Resour
 > ExpandFont is still in Alpha Developement. Plugin is not stable yet.. Caution advised when using this plugin.
 
 --------------------
-> < :shipit: > Well, Chestio. Can you show me some Examples On How to Use the Plugin?
+> < :shipit: > Well, Chestio. Can you show me some Examples On How to Use the Plugin?          
 > < 🤖 > Here are some examples!
 ### Examples Of Use.
 
