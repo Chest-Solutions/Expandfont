@@ -13,12 +13,7 @@ public class Expandfont extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        if (Bukkit.getPluginManager().getPlugin("PlaceholderAPI") != null) {
-            new FontPlaceholder(this).register();
-        } else {
-            getLogger().warning("Could not find PlaceholderAPI! This plugin is required.");
-            getServer().getPluginManager().disablePlugin(this);
-        }
+        new FontPlaceholder(this).register();
     }
 
     @Override
