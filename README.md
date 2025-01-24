@@ -1,11 +1,11 @@
 # ExpandFont
-## Made By Chest Solutions ORG
-> Expand Font Made By Chest Solutions ORG 2024
+## Made By Chest Solutions
+> Expand Font Made By Chest Solutions 
 
 
 ExpandFont Is A PlaceholderAPI Expansion Plugin Which lets you Use Custom Resource pack fonts in Placeholders.
 > [!CAUTION]
-> ExpandFont is still in Alpha Developement. Plugin is not stable yet.. Caution advised when using this plugin.
+> ExpandFont is still in Developement. Plugin is not stable yet. Caution advised when using this plugin.
 
 --------------------
 > < :shipit: > Well, Chestio. Can you show me some Examples On How to Use the Plugin?          
