@@ -5,7 +5,7 @@ description: 'Plugin Created By Chest Solution Organization'
 api-version: '1.20'
 hard-depend: [PlaceholderAPI]
 author: 'Chest Solutions'
-website: https://chest-solutions.github.io/Dev/
+website: https://chest-solutions.github.io
 
 commands:
   expandfont:
